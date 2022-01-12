@@ -1,0 +1,1 @@
+console.log(`Hello world\nI can display 'single' quotes\nAnd qoutes "double"`);
